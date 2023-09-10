@@ -12,7 +12,7 @@ export const Menu = () => {
               {/* Logo */}
               <div className="navbar__logo" >
                   <NavLink to={"#"} className="navbar__link-logo"  >
-                      <img src="./img/logo1.png" alt="" className="navbar__logo-ligth" />
+                      <img src="./img/Alphen_psic_salud.png" alt="" className="navbar__logo-ligth" />
                   </NavLink>
               </div>
               {/* Navegación */}
@@ -101,24 +101,6 @@ export const Menu = () => {
 
       </section>
 
-
-{/* Baner */}
-
-{/* Servicios */}
-
-{/* Proyecto */}
-
-{/* Estadisticas */}
-
-{/* Reseñas */}
-
-{/* Clientes */}
-
-{/* Noticias */}
-
-{/* Concatos */}
-
-{/* Footer */}
 </div>
 
     </>
