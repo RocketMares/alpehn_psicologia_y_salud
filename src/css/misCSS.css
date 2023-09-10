@@ -128,3 +128,26 @@ body{
     left: 0;
 }
 
+/* Mapas */
+.layout__sucursales{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 9.2rem;
+}
+.mapas__title{
+    top: 100%;
+    text-align: center;
+    padding: 3rem;
+    
+}
+.mapas__sucursal{
+    padding: 2rem;
+}
+.contenedor__mapas{
+    display: inline-block;
+    bottom: -0.7rem;
+    background: url('/public/img/location-1.png');
+    width: 100%;
+    justify-content: center;
+}

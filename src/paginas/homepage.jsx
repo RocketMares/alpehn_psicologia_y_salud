@@ -1,4 +1,4 @@
-import { Banner, Servicios } from "../componentes"
+import { Banner, MapasSucursales, Servicios } from "../componentes"
 import { Contacto,Especialistas, RedesScociales } from "./"
 
 
@@ -11,6 +11,7 @@ export const Homepage = () => {
         <Servicios/>
         <Especialistas/>
         <Contacto/>
+        <MapasSucursales/>
         <RedesScociales />
       </div>
 
