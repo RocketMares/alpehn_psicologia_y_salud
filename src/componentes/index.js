@@ -1,2 +1,4 @@
 export * from './Banner';
-export * from './Servicios';
+export * from '../paginas/Servicios';
+export * from './articulos';
+export * from './Tarjeta_reviews'
