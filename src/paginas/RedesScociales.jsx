@@ -89,9 +89,9 @@ export const RedesScociales = () => {
                     </section>
                     <section className='footer__bottom' >
                             <div className="footer__copyright">
-                                <span className="copyright__text" >
+                                {/* <span className="copyright__text" >
                                     &copy; 2023 Todos los derechos reservados a <Link to={'https://github.com/RocketMares'}>RocketMares</Link>
-                                </span>
+                                </span> */}
 
                             </div>
                             <div className="footer__links">

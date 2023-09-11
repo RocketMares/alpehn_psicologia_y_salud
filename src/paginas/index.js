@@ -3,3 +3,4 @@ export * from './Servicios';
 export * from './Especialistas';
 export * from './Contacto';
 export * from './RedesScociales';
+export * from './InfoMedico';
