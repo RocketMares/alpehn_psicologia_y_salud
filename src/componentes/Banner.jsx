@@ -7,8 +7,8 @@ export const Banner = () => {
         <section className="layout__banner">
             {/* Contenido del Banner */}
             <div className="banner__content">
-                <h1 className="banner__title">Diseño & Desarrollo web</h1>
-                <NavLink to={'#'} className={'banner_btn'}>
+                <h1 className="banner__title">Alphen Psicología & Salud</h1>
+                <NavLink to={'#'} className={'banner__btn'}>
                     Ver trabajos
                 </NavLink>
                 
